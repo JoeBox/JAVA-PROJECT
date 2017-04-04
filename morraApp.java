@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-
+//my comment - ignore it just for testing
 public class morraApp
 {
 	public static void main(String[] args)
